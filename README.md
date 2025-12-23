@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Kalamari Logo](./assets/images/play_store_512.png)
+![Kalamari Logo](./assets/images/iPhone 6.9/iPhone 6.9 - 1.0.png)
 
 **Share your taste. Discover amazing food.**
 
