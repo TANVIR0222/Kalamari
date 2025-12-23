@@ -2,19 +2,15 @@
 
 <div align="center">
 
-````carousel
-![App Screenshot - Home Feed](./assets/images/iPhone 6.9/iPhone 6.9 - 1.0.png)
-<!-- slide -->
-![App Screenshot - Discover](./assets/images/iPhone 6.9/iPhone 6.9 - 2.0.png)
-<!-- slide -->
-![App Screenshot - Post Creation](./assets/images/iPhone 6.9/iPhone 6.9 - 3.0.png)
-<!-- slide -->
-![App Screenshot - Profile](./assets/images/iPhone 6.9/iPhone 6.9 - 4.0.png)
-<!-- slide -->
-![App Screenshot - Map View](./assets/images/iPhone 6.9/iPhone 6.9 - 5.0.png)
-<!-- slide -->
-![App Screenshot - Social Features](./assets/images/iPhone 6.9/iPhone 6.9 - 6.0.png)
-````
+## App Screenshots
+
+![Home Feed](./assets/images/iPhone-6.9/iPhone-6.9-1.0.png)
+![Discover](./assets/images/iPhone-6.9/iPhone-6.9-2.0.png)
+![Post Creation](./assets/images/iPhone-6.9/iPhone-6.9-3.0.png)
+![Profile](./assets/images/iPhone-6.9/iPhone-6.9-4.0.png)
+![Map View](./assets/images/iPhone-6.9/iPhone-6.9-5.0.png)
+![Social Features](./assets/images/iPhone-6.9/iPhone-6.9-6.0.png)
+
 
 **Share your taste. Discover amazing food.**
 
