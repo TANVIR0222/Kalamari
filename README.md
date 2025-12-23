@@ -4,13 +4,17 @@
 
 ## App Screenshots
 
-![Home Feed](./assets/images/iPhone-6.9/iPhone-6.9-1.0.png)
-![Discover](./assets/images/iPhone-6.9/iPhone-6.9-2.0.png)
-![Post Creation](./assets/images/iPhone-6.9/iPhone-6.9-3.0.png)
-![Profile](./assets/images/iPhone-6.9/iPhone-6.9-4.0.png)
-![Map View](./assets/images/iPhone-6.9/iPhone-6.9-5.0.png)
-![Social Features](./assets/images/iPhone-6.9/iPhone-6.9-6.0.png)
+<img width="370" height="570" alt="iPhone 5 5 - 1 0" src="https://github.com/user-attachments/assets/76b83c08-3e1c-4f1b-9c08-18a1edfbca9f" />
 
+<img width="370" height="570" alt="iPhone 5 5 - 2 0" src="https://github.com/user-attachments/assets/88c24de4-459a-4f4c-a0d1-9a9f7246b335" />
+
+<img width="370" height="570" alt="iPhone 5 5 - 3 0" src="https://github.com/user-attachments/assets/2b272b92-acd3-4073-b74a-f63ceb90617e" />
+
+<img width="370" height="570" alt="iPhone 5 5 - 4 0" src="https://github.com/user-attachments/assets/730fd75f-4b81-4648-9648-1e0b174f8044" />
+
+<img width="370" height="570" alt="iPhone 5 5 - 5 0" src="https://github.com/user-attachments/assets/a0ff4545-025a-46d0-9164-d67609f4a180" />
+
+<img width="370" height="570" alt="iPhone 5 5 - 6 0" src="https://github.com/user-attachments/assets/30b91db9-413c-400b-a0a8-a9516876e4a9" />
 
 **Share your taste. Discover amazing food.**
 
